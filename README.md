@@ -29,9 +29,9 @@ designing a Marketplace app for Shopping
 [contributors-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/network/members
 
 
 <!-- Stars -->
