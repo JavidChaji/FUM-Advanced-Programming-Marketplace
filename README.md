@@ -34,7 +34,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace](https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
