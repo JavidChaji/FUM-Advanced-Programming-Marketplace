@@ -24,32 +24,32 @@ designing a Marketplace app for Shopping
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/graphs/contributors
+[contributors-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/network/members
+[forks-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/stargazers
+[stars-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/issues
+[issues-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Marketplace/blob/master/LICENSE
+[license-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/blob/master/LICENSE
 
 
 <!-- Linkedin -->
