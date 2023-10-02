@@ -32,7 +32,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - email@example.com
+Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
