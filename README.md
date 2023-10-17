@@ -55,7 +55,7 @@ designing a Marketplace app for Shopping
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Java][Java.com]][Java-url]
+- [![Java][Java.com]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
