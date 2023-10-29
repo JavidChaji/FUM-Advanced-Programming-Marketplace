@@ -47,7 +47,10 @@ designing a Marketplace app for Shopping
 </details>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+[![Product Screen Shot][Product-Screenshot]][Product-URL]
 
 
 
@@ -163,5 +166,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
+<!-- OpenJDK -->
 [OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
 [OpenJDK-url]: https://openjdk.org/
+
+
+<!-- Product -->
+[Product-Screenshot]: Images/Screenshot.png
+
+[Product-URL]: .
