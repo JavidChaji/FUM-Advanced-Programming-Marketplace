@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # Marketplace
 
@@ -134,44 +134,44 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/graphs/contributors
+[Contributors-URL]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[forks-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/network/members
+[Forks-URL]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[stars-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/stargazers
+[Stars-URL]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[issues-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/issues
+[Issues-URL]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/JavidChaji/FUM-Advanced-Programming-Marketplace.svg?style=for-the-badge
 
-[license-url]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/blob/master/LICENSE
+[License-URL]: https://github.com/JavidChaji/FUM-Advanced-Programming-Marketplace/blob/master/LICENSE
 
 
-<!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- OpenJDK -->
 [OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
-[OpenJDK-url]: https://openjdk.org/
+[OpenJDK-URL]: https://openjdk.org/
 
 
 <!-- Product -->
